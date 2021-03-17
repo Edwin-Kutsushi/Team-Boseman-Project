@@ -12,8 +12,14 @@ There has been an increase in the number of building collapses in Lagos and majo
 ##### Objectives.
 
 1.To identify the locations/ settlements with  high or  low  insurance claim rates.
+
+
 2.To find out which building types have the highest or lowest insurance claim rate.
+
+
 3.To determine whether fenced buildings have lower/higher insurance claim rates than unfenced buildings.
+
+
 4.To build a model that predicts whether a building will have an insurance claim or not.
 
 ##### Data Understanding
@@ -24,4 +30,5 @@ Data Understanding overview
 The existing dataset files we have comprises of data collected from Boseman Insurance Company based in Nigeria.We will not need additional data to meet the needs of our study. The data files that we will use for this project is as follows :
 
 Train_data -https://zindi.africa/competitions/data-science-nigeria-2019-challenge-1-insurance-prediction/data 
+
 Test_data  - https://zindi.africa/competitions/data-science-nigeria-2019-challenge-1-insurance-prediction/data
