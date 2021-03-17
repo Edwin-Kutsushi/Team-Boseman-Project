@@ -22,8 +22,8 @@ There has been an increase in the number of building collapses in Lagos and majo
 
 4.To build a model that predicts whether a building will have an insurance claim or not.
 
-##### Data Understanding
-###### Data mining .
+### Data Understanding
+#### Data mining .
 
 The datasets were sourced from ZINDI. It is based on buildings in Nigeria,and insurance firms from Nigeria.
 Data Understanding overview
