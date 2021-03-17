@@ -33,8 +33,8 @@ Train_data -https://zindi.africa/competitions/data-science-nigeria-2019-challeng
 
 Test_data  - https://zindi.africa/competitions/data-science-nigeria-2019-challenge-1-insurance-prediction/data
 
-Release
-This is the first release. Meta Team Time Data Report Distributed under the GNU General Public License v3.0. See LICENSE for more information. https://github.com/Edwin-Kutsushi/Edwin-Kutsushi-Week-9-IP.git
+#### Release
+This is the first release. Meta Team Time Data Report Distributed under the GNU General Public License v3.0. See LICENSE for more information. https://github.com/Edwin-Kutsushi/Team-Boseman-Project.git
 
-Contribution
-Contributing Fork it https://github.com/Edwin-Kutsushi/Edwin-Kutsushi-Week-9-IP.git Create your feature branch (git checkout -b feature/fooBar) Commit your changes (git commit -am 'Add some fooBar') Push to the branch (git push origin feature/fooBar) Create a new Pull Request
+#### Contribution
+Contributing Fork it https://github.com/Edwin-Kutsushi/Team-Boseman-Project.git Create your feature branch (git checkout -b feature/fooBar) Commit your changes (git commit -am 'Add some fooBar') Push to the branch (git push origin feature/fooBar) Create a new Pull Request.
