@@ -10,6 +10,7 @@ Our homes and investment properties are most often our biggest asset, so it make
 There has been an increase in the number of building collapses in Lagos and major cities in Nigeria. As an insurance company that specialises in buildings, understanding the customers is very crucial.  The ability to predict  whether a  building will have an insurance claim or not, is useful in identifying potential customers  as well as guiding future company policies.
 
 ##### Objectives.
+
 1.To identify the locations/ settlements with  high or  low  insurance claim rates.
 2.To find out which building types have the highest or lowest insurance claim rate.
 3.To determine whether fenced buildings have lower/higher insurance claim rates than unfenced buildings.
