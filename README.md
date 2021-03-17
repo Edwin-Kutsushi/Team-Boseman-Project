@@ -1,5 +1,5 @@
-## BUILDING  INSURANCE CLAIM PREDICTION
-### Business Understanding
+### BUILDING  INSURANCE CLAIM PREDICTION
+#### Business Understanding
 ##### Research Question
 Our client is Boseman Insurance company. We have been appointed as the Lead Data Analysts to build a predictive model to determine if a building will have an insurance claim during a certain period or not. We are required to predict the probability of having at least one claim over the insured period of the building.
 
